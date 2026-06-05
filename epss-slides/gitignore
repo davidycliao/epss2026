@@ -1,0 +1,37 @@
+# R project files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R environment
+*.Rproj
+
+# knitr / rmarkdown
+*_cache/
+/cache/
+*.knit.md
+*.utf8.md
+rsconnect/
+
+# renv / packrat
+renv/library/
+renv/local/
+renv/lock/
+.renv/
+packrat/lib*/
+packrat/src/
+
+# Output files (optional — remove if you want to track these)
+*.pdf
+*.docx
+*.html
+Rplots.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials / secrets
+.Renviron
+*.env
