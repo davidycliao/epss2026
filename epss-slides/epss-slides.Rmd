@@ -811,7 +811,6 @@ knitr::include_graphics("figure/figure_6_b.png")
 
 ]
 
-
 ---
 layout: true
 # .tiny[To Wrap-up]
