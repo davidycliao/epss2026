@@ -649,7 +649,7 @@ layout: true
 
 ---
 layout: true
-# .tiny[Finding 1→Prop 1: Own-Party Contact Reduces Misperception]
+# .tiny[Finding 1 → Prop 1: Own-Party Contact Reduces Misperception]
 ---
 
 &nbsp;
@@ -689,7 +689,7 @@ knitr::include_graphics("figure/figure_4.png")
 
 ---
 layout: true
-# .tiny[Finding 2→Prop 2: Rival-Party Contact ≈ Zero]
+# .tiny[Finding 2 → Prop 2: Rival-Party Contact ≈ Zero]
 ---
 
 &nbsp;
@@ -724,7 +724,7 @@ knitr::include_graphics("figure/figure_4_b.png")
 
 ---
 layout: true
-# .tiny[Finding 3→Prop 3: Who Actually Updates More]
+# .tiny[Finding 3 → Prop 3: Who Actually Updates More]
 ---
 
 &nbsp;
@@ -766,7 +766,7 @@ knitr::include_graphics("figure/figure_5.png")
 
 ---
 layout: true
-# .tiny[Finding 4→Prop 4: More Accurate, More Polarised ]
+# .tiny[Finding 4 → Prop 4: More Accurate, More Polarised ]
 ---
 name: dataset
 
@@ -817,37 +817,39 @@ layout: true
 # .tiny[To Wrap-up]
 ---
 
-.center[.hi-slate[Campaign knocks on your door]]
+.center[.hi-slate[A canvasser knocks on your door.]]
 
 --
 
 .center[.grey-mid[↓]]
 
-.center[.hi-slate[You learn your party is more extreme than you thought]]
+<!-- .center[.hi-slate[You learn your party is more extreme than you thought]] -->
+
+.center[.hi-slate[You trust the signal. Perception of your own party update — you become more accurate. ]]
 
 --
 
 .center[.grey-mid[↓]]
 
-.center[.hi-slate[Own-party perception moves outward] &nbsp; .grey-mid[(rival unchanged)]]
+.center[.hi-slate[Own-party perception moves outward] &nbsp; .grey-mid[(rival __unchanged__)]]
 
 --
 
 .center[.grey-mid[↓]]
 
-.center[.hi-slate[**You perceive a WIDER ideological gap**]]
+.center[.hi-slate[**You perceive a .hi-purple[WIDER] ideological gap**]]
 
 --
 
 .center[.grey-mid[↓]]
 
-.center[.hi-slate[Canvassing doesn't twist beliefs — it just fixes some more than others.]]]
+.center[.hi-slate[Canvassing doesn't twist beliefs — it just fixes some more than others.]]
 
 --
 
-&nbsp;
+.center[.grey-mid[↓]]
 
-.center[.hi-slate[The same mechanism that makes voters .hi-turquoise[better-informed] also makes them perceive .hi[greater polarisation]]]
+.center[.hi-slate[The same mechanism that makes voters .hi-purple[_better-informed_] also makes them perceive .hi-purple[_greater polarisation_].]]
 
 
 ---
