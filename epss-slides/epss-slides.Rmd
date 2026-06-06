@@ -835,19 +835,19 @@ layout: true
 
 .center[.grey-mid[↓]]
 
-.center[.hi[**You perceive a WIDER ideological gap**]]
+.center[.hi-slate[**You perceive a WIDER ideological gap**]]
 
 --
 
 .center[.grey-mid[↓]]
 
-.center[.note[Not through distortion — through .it[selective correction]]]
+.center[.hi-slate[Canvassing doesn't twist beliefs — it just fixes some more than others.]]]
 
 --
 
 &nbsp;
 
-.center[.smaller[The same mechanism that makes voters .hi-turquoise[better-informed] also makes them perceive .hi[greater polarisation]]]
+.center[.hi-slate[The same mechanism that makes voters .hi-turquoise[better-informed] also makes them perceive .hi[greater polarisation]]]
 
 
 ---
