@@ -284,11 +284,11 @@ layout: true
 
 --
 
-  - When `\({\color{#fb6107} \kappa_i^p = \color{#fb6107}0}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = \mu_i^{p,\text{pre}}\)` &amp;nbsp;→ signal gets ignored canvasser completely
+  - When `\({\color{#fb6107} \kappa_i^p = \color{#fb6107}0}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = \mu_i^{p,\text{pre}}\)` &amp;nbsp;→ .hi-slate[canvasser's signal is completely ignored]
 
 --
 
-  - When `\({\color{#44C1C4} \kappa_i^p = \color{#44C1C4}1}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = s_i^p\)` &amp;nbsp;→ fully believe canvasser
+  - When `\({\color{#44C1C4} \kappa_i^p = \color{#44C1C4}1}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = s_i^p\)` &amp;nbsp;→ .hi-slate[fully believe canvasser]
 
 --
 
@@ -308,9 +308,9 @@ layout: true
   
 -  `$$\mu_i^{p,\text{post}} = (1 - \color{#fb6107}\kappa_i^p)\,\mu_i^{p,\text{pre}} + \color{#fb6107} \kappa_i^p\, s_i^p$$`
 
-  - When `\({\color{#fb6107} \kappa_i^p = \color{#fb6107}0}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = \mu_i^{p,\text{pre}}\)` &amp;nbsp;→ signal gets ignored canvasser completely
+  - When `\({\color{#fb6107} \kappa_i^p = \color{#fb6107}0}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = \mu_i^{p,\text{pre}}\)` &amp;nbsp;→ .hi-slate[canvasser's signal is completely ignored]
 
-  - When `\({\color{#44C1C4} \kappa_i^p = \color{#44C1C4}1}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = s_i^p\)` &amp;nbsp;→ fully believe canvasser
+  - When `\({\color{#44C1C4} \kappa_i^p = \color{#44C1C4}1}\)`: &amp;nbsp; `\(\mu_i^{p,\text{post}} = s_i^p\)` &amp;nbsp;→ .hi-slate[fully believe canvasser]
 
 - Most voters are somewhere in between — and *where* depends on .hi[**who's at the door**]
 
@@ -357,7 +357,7 @@ layout: true
 ]
 
 .pull-right[
-- **Prop. 1** Own-party contact **reduces** misperception
+- `\(\underline{\textbf{Prop. 1}}\)` Own-party contact **reduces** misperception
 &lt;!-- - **P2** Rival-party contact has **no effect** (`\(t_L \approx 0\)`) --&gt;
 &lt;!-- - **P3** Own-party contact **increases** perceived polarisation --&gt;
 &lt;!--   + (corrects centrist bias → widens perceived gap) --&gt;
@@ -378,8 +378,8 @@ layout: true
 ]
 
 .pull-right[
-- **Prop. 1** Own-party contact **reduces** misperception
-- **Prop. 2** Rival-party contact has **no effect** (`\(t_L \approx 0\)`)
+- `\(\underline{\textbf{Prop. 1}}\)` Own-party contact **reduces** misperception
+- `\(\underline{\textbf{Prop. 2}}\)` Rival-party contact has **no effect** (`\(t_L \approx 0\)`)
 &lt;!-- - **P3** Own-party contact **increases** perceived polarisation --&gt;
 &lt;!--   + (corrects centrist bias → widens perceived gap) --&gt;
 &lt;!-- - **P4** Effects larger for **weak partisans** --&gt;
@@ -410,7 +410,7 @@ layout: true
 ]
 
 .pull-right[
-- **Prop. 3** Own-party contact **increases** perceived polarisation
+- `\(\underline{\textbf{Prop. 3}}\)` Own-party contact **increases** perceived polarisation
   + (corrects centrist bias → widens perceived gap)
 &lt;!-- - **P4** Effects larger for **weak partisans** --&gt;
 &lt;!--   + (noisier priors → more room to correct) --&gt;
@@ -434,9 +434,9 @@ layout: true
 ]
 
 .pull-right[
-- **Prop. 3** Own-party contact **increases** perceived polarisation
+- `\(\underline{\textbf{Prop. 3}}\)` Own-party contact **increases** perceived polarisation
   + (corrects centrist bias → widens perceived gap)
-- **Prop. 4** Effects larger for **weak partisans**
+- `\(\underline{\textbf{Prop. 4}}\)` Effects larger for **weak partisans**
   + (noisier priors → more room to correct)
 
 ]
@@ -534,8 +534,9 @@ layout: true
 
 .hi-grey[**Dependent variables**]
 
-- **Misperception**: `\(\pi_{i,t} = |p_{i,t} - \bar{p}_t|\)` (own-party, 0–10 scale)
-- **Perceived Polarisation**: `\(\Pi_{i,t} = |\mu_i^{\text{Con}} - \mu_i^{\text{Lab}}|\)`
+- .underline[**Misperception**]: `\(\pi_{i,t} = |p_{i,t} - \bar{p}_t|\)` (own-party, 0–10 scale)
+&lt;!-- - **Misperception**: `\(\color{#8B0000}{\boldsymbol{\pi}_{i,t}} = |p_{i,t} - \bar{p}_t|\)` (own-party, 0–10 scale) --&gt;
+- .underline[**Perceived Polarisation**]: `\(\Pi_{i,t} = |\mu_i^{\text{Con}} - \mu_i^{\text{Lab}}|\)`
 ]
 
 
@@ -688,7 +689,13 @@ layout: true
 .pull-left[
 .hi-grey[**Weak partisans correct much more than strong partisans**]
 - This aligns with Proposition 3
-- Simulated ratio 2.75:1 closely matches empirical 3–4:1
+&lt;!-- - Simulated ratio 2.75:1 closely matches empirical 3–4:1 --&gt;
+- Simulated ratio .red[**2.75:1**] closely matches empirical .red[**3–4:1**]
+
+|   | Ratio |
+|---|-------|
+| Simulated | **2.75:1** |
+| Empirical | **3 to 4:1**  |
 
 **Implication:** canvassing works best on voters who are most wrong about where their own party stands.
 
@@ -800,19 +807,20 @@ name: dataset
 
 &lt;!-- -- --&gt;
 
-.hi-grey[**Broader implications**]
+### .hi-grey[**Broader implications**]
 
 - Campaigns don't change *who* you vote for — but they change *what you believe*
 
 --
 
-- __Consequences for accountability and polarisation:__ If effects show up from a brief doorstep encounter, the same logic almost certainly applies at far greater scale in partisan social media environments.
+- .hi-slate[__Consequences for accountability and polarisation:__] If effects show up from a brief doorstep encounter, the same logic almost certainly applies at far greater scale in partisan social media environments.
 
 --
 
-.hi-grey[**Future work:**]
+### .hi-grey[**Future work:**]
 
-- The next step is to nail down causal identification through a survey experiment. 
+- The next step is to nail down .hi-slate[causal identification] through a .hi-slate[survey experiment].
+  + following Hager et al. (2023) Political activists as free riders: Evidence from a natural field experiment. _The Economic Journal_.
 
 
 
