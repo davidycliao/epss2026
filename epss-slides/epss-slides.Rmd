@@ -2,7 +2,7 @@
 title: ".small.hi-slate[Knocking on the Wrong Door:]"
 subtitle: ".small.hi-green[Partisan Canvassing and Asymmetric Belief Updating]"
 author:
-  - .tiny.b[__Yen-Chieh Liao & Li Tang (University of Birmingham)__]  
+  - .tiny.b[__Yen-Chieh Liao & Li Tang (University of Birmingham & National Taiwan University)__]  
   - .tiny.b[Presented at European Political Science Society Conference]  
 date: ".tiny.b[18--20 June 2026, Belfast, UK.]"
 output:
@@ -923,7 +923,7 @@ class: inverse, center, middle
     <img src="figure/david.jpeg" 
          style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #8AA19E;">
     <div style="margin-top: 10px; font-size: 16px; font-weight: 700; color: #ffffff;">Yen-Chieh Liao</div>
-    <div style="font-size: 13px; font-weight: 700; color: #ffffff;">University of Birmingham</div>
+    <div style="font-size: 13px; font-weight: 700; color: #ffffff;">University of Birmingham & National Taiwan University</div>
     <div style="margin-top: 8px; font-size: 13px;">
       <a href="https://davidycliao.github.io" target="_blank" style="text-decoration: none; color: #ffffff;">
         <i class="fas fa-globe"></i> davidycliao.github.io
