@@ -698,10 +698,12 @@ layout: true
 
 .pull-left[
 .hi-grey[**Rival contact has little to no effect.**]
+
 — across all specifications, both parties, both contact measures
 
-> Conservative supporters ignore Labour canvassers.  
-> Labour supporters ignore Conservative canvassers.
+- No matter what rival canvassers have said, voters ignore them.
+
+> Conservative supporters ignore Labour canvassers, vice versa.
 
 
 <!-- Consistent with **two micro-foundations**: -->
