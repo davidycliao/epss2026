@@ -841,7 +841,7 @@ layout: true
 
 .center[.grey-mid[↓]]
 
-.center[.hi-slate[Own-party perception moves outward] &nbsp; .grey-mid[(rival __unchanged__)]]
+.center[.hi-slate[Own-party perception moves outward] &nbsp; .hi-red[(rival __unchanged__)]]
 
 --
 
