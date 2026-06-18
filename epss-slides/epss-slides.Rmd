@@ -2,7 +2,7 @@
 title: ".small.hi-slate[Knocking on the Wrong Door:]"
 subtitle: ".small.hi-green[Partisan Canvassing and Asymmetric Belief Updating]"
 author:
-  - .tiny.b[__Yen-Chieh Liao & Li Tang (University of Birmingham & National Taiwan University)__]  
+  - .tiny.b[__Yen-Chieh Liao & Li Tang (University of Birmingham & NTU, Taiwan)__]  
   - .tiny.b[Presented at European Political Science Society Conference]  
 date: ".tiny.b[18--20 June 2026, Belfast, UK.]"
 output:

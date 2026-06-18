@@ -15,6 +15,40 @@
   background-repeat: no-repeat;
 }
 
+.remark-slide-content.title-slide {
+  position: relative;
+}
+
+/* UoB logo: right */
+.remark-slide-content.title-slide::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 180px;;   /* 往上移：原本 100px */
+  right: 35px;     /* 往右移：原本 60px */
+  width: 175px;
+  height: 112px;
+  background-image: url("figure/uob-logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* NTU logo: left */
+.remark-slide-content.title-slide::before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 180px;;   /* 和 UoB 一樣高 */
+  right: 220px;    /* 35 + 175 + 10px gap */
+  width: 175px;
+  height: 112px;
+  background-image: url("figure/ntu-logo2.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 <style>
 .compact ul {
   line-height: 1.2;
