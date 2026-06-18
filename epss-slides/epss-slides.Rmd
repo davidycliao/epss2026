@@ -732,7 +732,8 @@ layout: true
 
 .pull-left[
 .hi-grey[**Weak partisans correct much more than strong partisans**]
-- This aligns with Proposition 3
+- This aligns with Proposition 3 - voters who start further correct more 
+
 <!-- **Implication:** Campaigns are most effective *where correction is most needed*   -->
 <!-- — but strong partisans are the typical mobilisation targets -->
 ]
@@ -750,7 +751,8 @@ knitr::include_graphics("figure/figure_5.png")
 
 .pull-left[
 .hi-grey[**Weak partisans correct much more than strong partisans**]
-- This aligns with Proposition 3
+- This aligns with Proposition 3 - voters who start further correct more 
+
 <!-- - Simulated ratio 2.75:1 closely matches empirical 3–4:1 -->
 - Simulated ratio .red[**2.75:1**] closely matches empirical .red[**3–4:1**]
 
